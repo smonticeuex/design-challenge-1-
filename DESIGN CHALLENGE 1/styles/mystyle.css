@@ -9,7 +9,7 @@ html {
 }
 
 .header {
-  padding: 130px;
+  padding: 80px;
   text-align: center;
   font-size: 18px;
 }
@@ -41,7 +41,6 @@ h3 {
 
 p{
 	color: white;
-	text-align: left;
 
 }
 
@@ -62,9 +61,16 @@ body {
   line-height: 1.5;
 }
 
-.column {
-  width: 50%;
-  
+.buttons{
+    height: 100px;
+    border-radius: 25px ;
+	color: #FF6453;
 }
-
+.Parameters{
+	color: white;
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+ 
 
