@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+
+}
+
+html {
+  background: black; 
+  font-family: 'OCR A'
+}
+
+.header {
+  padding: 130px;
+  text-align: center;
+  font-size: 18px;
+}
+
+li {
+  display: block;
+  padding:5px 25px;
+  float: right;
+  font-size: 15px;
+  color: lightgrey;
+}
+
+li:hover { 
+text-decoration: underline;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+h1 { 
+color: white;
+}
+
+h3 {
+	color: white;
+	font-family: 'Leelawadee UI'
+}
+
+p{
+	color: white;
+	text-align: left;
+
+}
+
+b{
+	color: lightgrey;
+	font-size: 16px;
+	
+}
+
+i{
+	color: lightgrey;
+}
+
+body {
+  margin: 0;
+  padding: 0px;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.column {
+  width: 50%;
+  
+}
+
+
